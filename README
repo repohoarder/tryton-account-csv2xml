@@ -1,0 +1,8 @@
+Tryton account csv2xml
+======================
+
+This project aims to convert CSV data of an Account Chart to XML data 
+for Tryton
+
+In order to run conversor.py you need to create account types and account 
+chart files.
